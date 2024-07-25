@@ -1,0 +1,2 @@
+learning branching
+sed -i 's/old-text/new-text/g' <file_name>
