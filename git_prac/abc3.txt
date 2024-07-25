@@ -3,3 +3,5 @@ sed -i 's/old-text/new-text/g' <file_name>
 sudo apt-get install git #command to install GIT in ubuntu
 
 sudo another command
+
+3rd attempt to learn
